@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//  На вход подаётся поговорка “без труда не выловишь и рыбку из пруда”.
+// Используя рекурсию, подсчитайте, сколько в поговорке гласных букв.

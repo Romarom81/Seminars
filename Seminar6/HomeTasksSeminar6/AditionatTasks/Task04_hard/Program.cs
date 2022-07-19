@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Создайте программу, показывающую текущее время. Для вывода чисел используйте двумерные массивы.
+// https://docs.microsoft.com/ru-ru/dotnet/api/system.datetime?view=net-6.
+
